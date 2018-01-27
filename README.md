@@ -1,4 +1,4 @@
-# azure-file-uploader
+# azure-storage-file-uploader
 
 ## Usage
 
