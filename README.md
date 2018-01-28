@@ -1,5 +1,7 @@
 # azure-storage-file-uploader
 
+Click [here](https://qiita.com/mochi8k/items/0d93a35c224753e242ab) for more info
+
 ## Usage
 
 ```
